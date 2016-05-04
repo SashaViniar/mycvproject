@@ -1,0 +1,15 @@
+
+
+.buttontable {
+    display: inline-table;
+    border-radius: 5%;
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 100%;
+    padding: 5%;
+    width: 23%;
+    transition: all 0.5s;
+    cursor: pointer;
+}

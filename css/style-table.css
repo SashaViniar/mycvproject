@@ -1,0 +1,14 @@
+
+table {
+    font-size: 360%;
+    width: 100%;
+    height: 100%;
+    color: white;
+    text-align: center;
+}
+table tr th{
+    text-align: center;
+}
+.imglogskills{
+     border-radius: 55%;
+}
