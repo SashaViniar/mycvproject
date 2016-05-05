@@ -1,4 +1,3 @@
-
 $(document).ready(function($) {
     $('#net').fadeOut("fast");
     $('#plus').fadeOut("fast");
@@ -105,3 +104,11 @@ $('#btn-send').click(function() {
         })
 });
 //regex101
+
+
+
+
+/*
+var emailConmp = ['exa','mail','@gmail.com'];
+idemail.InnerHtml= emailConmp.join('');
+*/
