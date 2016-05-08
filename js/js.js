@@ -102,13 +102,9 @@ $('#btn-send').click(function() {
         .done(function() {
             $('#container').html('<h1 color = "white">Thank you!</h1>');
         })
+        .fail(function(){
+              $('#container').html('<h1>Error!</h1><br>'+textStatus);
+        })
 });
 //regex101
 
-
-
-
-/*
-var emailConmp = ['exa','mail','@gmail.com'];
-idemail.InnerHtml= emailConmp.join('');
-*/
