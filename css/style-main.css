@@ -13,4 +13,5 @@ body {
     margin: auto;
     padding: 0 0 1em 0;
     max-width: 750px;
+    min-width: 460px;
 }
